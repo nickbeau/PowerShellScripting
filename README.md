@@ -8,16 +8,23 @@ Repository for the Facebook Group [PowerShell Scripting](https://www.facebook.co
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
-* [Introduction](#introduction)
-* [Scripts](#scripts)
-* [Humorous Scripts](#humorous-scripts)
+- [PowerShellScripting](#powershellscripting)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+    - [What is PowerShell?](#what-is-powershell)
+    - [What is the Facebook Group](#what-is-the-facebook-group)
+    - [What is this repository](#what-is-this-repository)
+  - [Scripts](#scripts)
+  - [Humorous Scripts](#humorous-scripts)
+  - [Other Repositories](#other-repositories)
+  - [Disclaimer](#disclaimer)
 
 ## Introduction
 ### What is PowerShell?
 Windows PowerShell is a shell initially developed by Microsoft for task automation and configuration management. PowerShell is now an [open-source project](https://github.com/PowerShell/PowerShell), and it can be installed on Windows, macOS, and Linux platforms. This shell is based on the .NET framework, and it includes a command-line shell and a scripting language.
 
 ### What is the Facebook Group
-The Facebook group, [PowerShell Scripting](https://www.facebook.com/groups/169862746384097/?fref=nf) is a group with 24,200 members dedicated to working together on scripts, questions and answers.
+The Facebook group, [PowerShell Scripting](https://www.facebook.com/groups/169862746384097/?fref=nf) is a group with 24,200 members dedicated to working together on scripts, questions, and answers.
 
 ### What is this repository
 This repository is a maintained list of scripts, articles and more, curated by the community which allows members to quickly find answers to questions and more.
@@ -28,3 +35,8 @@ This repository is a maintained list of scripts, articles and more, curated by t
 ## Humorous Scripts
 * [Get Answer from Google](scripts/googlefunction.ps1) - Add this script to your profile and you'll always be close to getting the google answer you need. - From [StackOverflow](https://stackoverflow.com/questions/32703483/get-google-search-results-via-powershell).
 
+## Other Repositories
+* [PowerShell Scripts Repository for Active Directory](https://support.atera.com/hc/en-us/articles/221113188-PowerShell-Scripts-Repository-for-Active-Directory?mobile_site=true&fbclid=IwAR2IhxgJgaUbh9xiWwnbSXqJXKmJ3eR0lo374XitW4x1IZsXGWyYeyKGlSI) - Atera and more specifically Liron Hanania's script library for Active directory and Windows Administration.
+
+## Disclaimer
+This list is for information purposes only. There is no warranty express or implied regarding the scripts and links above and their applicability or fitness for purpose. You are responsible and take all risks for any of the scripts you use.
