@@ -1,0 +1,1 @@
+Copy-Item source destination -Recurse -Force -Confirm:$False
