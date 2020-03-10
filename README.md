@@ -10,6 +10,7 @@ Repository for the Facebook Group [PowerShell Scripting](https://www.facebook.co
 ## Contents
 * [Introduction](#introduction)
 * [Scripts](#scripts)
+* [Humorous Scripts](#humorous-scripts)
 
 ## Introduction
 ### What is PowerShell?
@@ -22,6 +23,7 @@ The Facebook group, [PowerShell Scripting](https://www.facebook.com/groups/16986
 This repository is a maintained list of scripts, articles and more, curated by the community which allows members to quickly find answers to questions and more.
 
 ## Scripts
+* [Copy all files and folders](scripts/copyAllfilesandfolders.ps1) - Copies all files and folders recursively, from a request by Arun Kumar.
 
 ## Humorous Scripts
 * [Get Answer from Google](scripts/googlefunction.ps1) - Add this script to your profile and you'll always be close to getting the google answer you need. - From [StackOverflow](https://stackoverflow.com/questions/32703483/get-google-search-results-via-powershell).
