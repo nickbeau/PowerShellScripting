@@ -23,6 +23,6 @@ This repository is a maintained list of scripts, articles and more, curated by t
 
 ## Scripts
 
-## Humerous Scripts
-* [Get Answer from Google](scripts/googlefunction.ps1) - Add this script to your profile and you'll always be close to getting the google answer you need.
+## Humorous Scripts
+* [Get Answer from Google](scripts/googlefunction.ps1) - Add this script to your profile and you'll always be close to getting the google answer you need. - From [StackOverflow](https://stackoverflow.com/questions/32703483/get-google-search-results-via-powershell).
 
