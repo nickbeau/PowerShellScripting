@@ -43,6 +43,7 @@ This repository is a maintained list of scripts, articles and more, curated by t
 
 ## Articles
 * **[Conditional Logic with If-Else](https://adamtheautomator.com/powershell-if-else/?fbclid=IwAR0-8E1XlJPzKZ8pq_74-Mauz2QhJoWXRk_DN2oMovgb0SLUAueMFInSkEE)** - a key part of any scripting is conditional logic, allowing your script to make decisions. This script from [June Castillote](https://junecastillote.github.io/) gives a great example of this.
+* **[Export Office 365 License Expiry Date Report](https://o365reports.com/2020/03/04/export-office-365-license-expiry-date-report-powershell/)** - This superb report helps admins know when users' licenses are due to expire. 
 * **[How to Generate an Office 365 Active User Report](https://www.lazyexchangeadmin.com/generate-office365-active-user-report/?fbclid=IwAR0xAY1GwGM5NXHBo8EhJaax1m5EVf8weIijZoqyMFcOSSVnp62DOXeJvAw)** - this walkthrough on LazyExchangeAdmin shows how to create an **Active Users Report** using PowerShell and the Microsoft Graph Rest API.
 * **[Managing NTFS Permissions with PowerShell](https://4sysops.com/archives/managing-ntfs-permissions-with-powershell/?fbclid=IwAR2IPkYFIU-315lvDLY74GvNn4Xo7gNWP7Yi7tfBBsXCvw_cKToKicwlv_Y)** - this great article by Timothy Warner explains how to use PowerShell to manage NTFS Permissions.
 
