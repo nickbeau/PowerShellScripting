@@ -32,6 +32,7 @@ This repository is a maintained list of scripts, articles and more, curated by t
 
 ## Scripts
 * [Copy all files and folders](scripts/copyAllfilesandfolders.ps1) - Copies all files and folders recursively, from a request by Arun Kumar.
+* [Function Template](scripts/functiontemplate.ps1) - Creates a new function. This template contains and describes many of the different options you can use to create a function.
 * [PowerShell Profile Backup](https://github.com/01000001-01001110/PowershellProfileBackup) - This amazing tool backups up a profile, with a UI, all from PowerShell.
 
 ## Humorous Scripts
