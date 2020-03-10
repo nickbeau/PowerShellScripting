@@ -17,6 +17,7 @@ Repository for the Facebook Group [PowerShell Scripting](https://www.facebook.co
   - [Scripts](#scripts)
   - [Humorous Scripts](#humorous-scripts)
   - [Other Repositories](#other-repositories)
+  - [Articles](#articles)
   - [Disclaimer](#disclaimer)
 
 ## Introduction
@@ -37,6 +38,9 @@ This repository is a maintained list of scripts, articles and more, curated by t
 
 ## Other Repositories
 * [PowerShell Scripts Repository for Active Directory](https://support.atera.com/hc/en-us/articles/221113188-PowerShell-Scripts-Repository-for-Active-Directory?mobile_site=true&fbclid=IwAR2IhxgJgaUbh9xiWwnbSXqJXKmJ3eR0lo374XitW4x1IZsXGWyYeyKGlSI) - Atera and more specifically Liron Hanania's script library for Active directory and Windows Administration.
+
+## Articles
+* [Managing NTFS Permissions with PowerShell](https://4sysops.com/archives/managing-ntfs-permissions-with-powershell/?fbclid=IwAR2IPkYFIU-315lvDLY74GvNn4Xo7gNWP7Yi7tfBBsXCvw_cKToKicwlv_Y) - this great article by Timothy Warner explains how to use PowerShell to manage NTFS Permissions.
 
 ## Disclaimer
 This list is for information purposes only. There is no warranty express or implied regarding the scripts and links above and their applicability or fitness for purpose. You are responsible and take all risks for any of the scripts you use.
