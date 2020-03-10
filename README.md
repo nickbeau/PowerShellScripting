@@ -3,7 +3,7 @@
 
 ![PowershellLogo](img/PowershellLogo.png)
 
-Repository for the Facebook Group [PowerShell Scripting](https://www.facebook.com/groups/169862746384097/?fref=nf). To contribute to this repository, please see [Contribution Guidelines](CONTRIBUTING.md). This repository contains useful PowerShell scripts and articles that have been curated by the group.
+Repository for the Facebook Group [PowerShell Scripting](https://www.facebook.com/groups/169862746384097/?fref=nf). To contribute to this repository, please see [Contribution Guidelines](CONTRIBUTING.md), or simply create a new [issue](https://github.com/nickbeau/PowerShellScripting/issues/new/choose) if you want it done for you. This repository contains useful PowerShell scripts and articles that have been curated by the group.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -38,7 +38,7 @@ This repository is a maintained list of scripts, articles and more, curated by t
 * [Get Answer from Google](scripts/googlefunction.ps1) - Add this script to your profile and you'll always be close to getting the google answer you need. - From [StackOverflow](https://stackoverflow.com/questions/32703483/get-google-search-results-via-powershell).
 
 ## Other Repositories
-* [PowerShell Scripts Repository for Active Directory](https://support.atera.com/hc/en-us/articles/221113188-PowerShell-Scripts-Repository-for-Active-Directory?mobile_site=true&fbclid=IwAR2IhxgJgaUbh9xiWwnbSXqJXKmJ3eR0lo374XitW4x1IZsXGWyYeyKGlSI) - Atera and more specifically Liron Hanania's script library for Active directory and Windows Administration.
+* [PowerShell Scripts Repository for Active Directory](https://support.atera.com/hc/en-us/articles/221113188-PowerShell-Scripts-Repository-for-Active-Directory?mobile_site=true&fbclid=IwAR2IhxgJgaUbh9xiWwnbSXqJXKmJ3eR0lo374XitW4x1IZsXGWyYeyKGlSI) - Atera and more specifically Liron Hanania's script library for Active Directory and Windows Administration.
 
 ## Articles
 * [How to Generate an Office 365 Active User Report](https://www.lazyexchangeadmin.com/generate-office365-active-user-report/?fbclid=IwAR0xAY1GwGM5NXHBo8EhJaax1m5EVf8weIijZoqyMFcOSSVnp62DOXeJvAw) - this walkthrough on LazyExchangeAdmin shows how to create an **Active Users Report** using PowerShell and the Microsoft Graph Rest API.
