@@ -42,8 +42,10 @@ This repository is a maintained list of scripts, articles and more, curated by t
 * [PowerShell Scripts Repository for Active Directory](https://support.atera.com/hc/en-us/articles/221113188-PowerShell-Scripts-Repository-for-Active-Directory?mobile_site=true&fbclid=IwAR2IhxgJgaUbh9xiWwnbSXqJXKmJ3eR0lo374XitW4x1IZsXGWyYeyKGlSI) - Atera and more specifically Liron Hanania's script library for Active Directory and Windows Administration.
 
 ## Articles
-* [How to Generate an Office 365 Active User Report](https://www.lazyexchangeadmin.com/generate-office365-active-user-report/?fbclid=IwAR0xAY1GwGM5NXHBo8EhJaax1m5EVf8weIijZoqyMFcOSSVnp62DOXeJvAw) - this walkthrough on LazyExchangeAdmin shows how to create an **Active Users Report** using PowerShell and the Microsoft Graph Rest API.
-* [Managing NTFS Permissions with PowerShell](https://4sysops.com/archives/managing-ntfs-permissions-with-powershell/?fbclid=IwAR2IPkYFIU-315lvDLY74GvNn4Xo7gNWP7Yi7tfBBsXCvw_cKToKicwlv_Y) - this great article by Timothy Warner explains how to use PowerShell to manage NTFS Permissions.
+* **[Conditional Logic with If-Else](https://adamtheautomator.com/powershell-if-else/?fbclid=IwAR0-8E1XlJPzKZ8pq_74-Mauz2QhJoWXRk_DN2oMovgb0SLUAueMFInSkEE)** - a key part of any scripting is conditional logic, allowing your script to make decisions. This script from [June Castillote](https://junecastillote.github.io/) gives a great example of this.
+* **[How to Generate an Office 365 Active User Report](https://www.lazyexchangeadmin.com/generate-office365-active-user-report/?fbclid=IwAR0xAY1GwGM5NXHBo8EhJaax1m5EVf8weIijZoqyMFcOSSVnp62DOXeJvAw)** - this walkthrough on LazyExchangeAdmin shows how to create an **Active Users Report** using PowerShell and the Microsoft Graph Rest API.
+* **[Managing NTFS Permissions with PowerShell](https://4sysops.com/archives/managing-ntfs-permissions-with-powershell/?fbclid=IwAR2IPkYFIU-315lvDLY74GvNn4Xo7gNWP7Yi7tfBBsXCvw_cKToKicwlv_Y)** - this great article by Timothy Warner explains how to use PowerShell to manage NTFS Permissions.
+
 
 
 ## Disclaimer
