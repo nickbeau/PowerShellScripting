@@ -13,7 +13,7 @@ Repository for the Facebook Group [PowerShell Scripting](https://www.facebook.co
 - [PowerShell Scripting](#powershell-scripting)
   - [Contents](#contents)
   - [Introduction](#introduction)
-    - [What is PowerShell?](#what-is-powershell)
+    - [What is PowerShell](#what-is-powershell)
     - [What is the Facebook Group](#what-is-the-facebook-group)
     - [What is this repository](#what-is-this-repository)
   - [Scripts](#scripts)
@@ -24,7 +24,7 @@ Repository for the Facebook Group [PowerShell Scripting](https://www.facebook.co
 
 ## Introduction
 
-### What is PowerShell?
+### What is PowerShell
 
 Windows PowerShell is a shell initially developed by Microsoft for task automation and configuration management. PowerShell is now an [open-source project](https://github.com/PowerShell/PowerShell), and it can be installed on Windows, macOS, and Linux platforms. This shell is based on the .NET framework, and it includes a command-line shell and a scripting language.
 
@@ -55,7 +55,8 @@ This repository is a maintained list of scripts, articles and more, curated by t
 ## Articles
 
 - **[Conditional Logic with If-Else](https://adamtheautomator.com/powershell-if-else/?fbclid=IwAR0-8E1XlJPzKZ8pq_74-Mauz2QhJoWXRk_DN2oMovgb0SLUAueMFInSkEE)** - a key part of any scripting is conditional logic, allowing your script to make decisions. This script from [June Castillote](https://junecastillote.github.io/) gives a great example of this.
-- **[Export Office 365 License Expiry Date Report](https://o365reports.com/2020/03/04/export-office-365-license-expiry-date-report-powershell/)** - This superb report helps admins know when users' licenses are due to expire. 
+- **[Export Office 365 License Expiry Date Report](https://o365reports.com/2020/03/04/export-office-365-license-expiry-date-report-powershell/)** - This superb report helps admins know when users' licenses are due to expire.
+- **[Just Enough Administration](https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/jea/overview?view=powershell-7)** - Just Enough Administration (JEA) is a security technology that enables delegated administration for anything managed by PowerShell. Using JEA you can reduce the number of administrators, restrict what users can do and ensure Just Enough rights to do the job, rather than knee-jerk and deliver full admin rights to everyone.
 - **[How to Generate an Office 365 Active User Report](https://www.lazyexchangeadmin.com/generate-office365-active-user-report/?fbclid=IwAR0xAY1GwGM5NXHBo8EhJaax1m5EVf8weIijZoqyMFcOSSVnp62DOXeJvAw)** - this walkthrough on LazyExchangeAdmin shows how to create an **Active Users Report** using PowerShell and the Microsoft Graph Rest API.
 - **[Managing NTFS Permissions with PowerShell](https://4sysops.com/archives/managing-ntfs-permissions-with-powershell/?fbclid=IwAR2IPkYFIU-315lvDLY74GvNn4Xo7gNWP7Yi7tfBBsXCvw_cKToKicwlv_Y)** - this great article by Timothy Warner explains how to use PowerShell to manage NTFS Permissions.
 - **[Writing Powershell GUIs the easy way](https://popeen.com/2019/02/09/writing-powershell-uis-the-easy-way/)** - Talking about different ways of structuring powershell UIs and introducing a module for super quick creation of easy and readable UIs.
