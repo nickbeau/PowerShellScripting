@@ -39,7 +39,7 @@ function Function-Name {
                 Write "Doing it..."
             }
             else {
-                Write "Not doing it..."
+                Write "Not doing it.by vbk.."
             }
         }
     } #End function
